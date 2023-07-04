@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sperbergv", "Sperbergv\Sperbergv.csproj", "{76CCC74D-6107-481F-8564-7146307AF41B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SperberConsole", "SperberConsole\SperberConsole.csproj", "{597C6272-D432-45A3-BF24-10545FD902EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76CCC74D-6107-481F-8564-7146307AF41B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76CCC74D-6107-481F-8564-7146307AF41B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76CCC74D-6107-481F-8564-7146307AF41B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76CCC74D-6107-481F-8564-7146307AF41B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{597C6272-D432-45A3-BF24-10545FD902EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{597C6272-D432-45A3-BF24-10545FD902EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{597C6272-D432-45A3-BF24-10545FD902EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{597C6272-D432-45A3-BF24-10545FD902EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CE39A7E-1192-4961-802A-724DC7D9E692}
+	EndGlobalSection
+EndGlobal
